@@ -16,11 +16,11 @@ An end-to-end **AI credit risk assessment & portfolio optimization platform**, b
 - Streamlit for interactive dashboards
 
 
-## 🚀 Live Demo  
-🔗 https://peterson-muriuki-lendiq.streamlit.app
+## Live Demo  
+https://peterson-muriuki-lendiq.streamlit.app
 
 
-## ⭐ Features
+## Features
 
 - **AI Credit Scoring** → XGBoost model with **82% AUC-ROC**
 - **Dynamic Loan Pricing** based on applicant risk
@@ -29,14 +29,14 @@ An end-to-end **AI credit risk assessment & portfolio optimization platform**, b
 - **Explainable AI** using SHAP values
 - **Interactive Streamlit Dashboard** with Plotly visuals
 
-## 📊 Key Results
+## Key Results
 
 - **82% AUC** on synthetic credit dataset  
 - **30% reduction** in expected default risk  
 - **15% increase** in approval rates  
 - **< 500ms** real-time scoring latency  
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - **Python**, **Pandas**, **NumPy**
 - **XGBoost**, **LightGBM**, **Scikit-Learn**
@@ -44,7 +44,7 @@ An end-to-end **AI credit risk assessment & portfolio optimization platform**, b
 - **Plotly** visualizations
 - **Streamlit** dashboard
 
-## 📁 Project Structure
+## Project Structure
 
 LendIQ/
 │── data/ # Synthetic dataset scripts
@@ -53,7 +53,7 @@ LendIQ/
 │── figures/ # Charts & visuals
 └── requirements.txt # Dependencies
 
-## ⚙️ Installation & Setup
+## Installation & Setup
 
 ```bash
 # Clone repo
@@ -75,14 +75,14 @@ python models/train_credit_model.py
 
 # Launch dashboard
 streamlit run dashboard/app.py
-👤 Author
+Author
 
 Peterson Muriuki
-📧 Email: pitmuriuki@gmail.com
+Email: pitmuriuki@gmail.com
 
-🐙 GitHub: https://github.com/Peterson-Muriuki
+GitHub: https://github.com/Peterson-Muriuki
 
-🔗 LinkedIn: https://www.linkedin.com/in/peterson-muriuki-5857aaa9/
+LinkedIn: https://www.linkedin.com/in/peterson-muriuki-5857aaa9/
 
-📄 License
+License
 MIT License
