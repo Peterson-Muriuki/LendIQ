@@ -1,0 +1,6 @@
+Model Training Results
+=======================
+Model: XGBoost
+Test AUC: 0.82
+Training Date: 04/12/2025
+Features: 40+
