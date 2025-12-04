@@ -15,12 +15,10 @@ An end-to-end **AI credit risk assessment & portfolio optimization platform**, b
 - Risk Management (VaR, CVaR, Stress Testing)
 - Streamlit for interactive dashboards
 
----
 
 ## 🚀 Live Demo  
 🔗 https://peterson-muriuki-lendiq.streamlit.app
 
----
 
 ## ⭐ Features
 
@@ -31,16 +29,12 @@ An end-to-end **AI credit risk assessment & portfolio optimization platform**, b
 - **Explainable AI** using SHAP values
 - **Interactive Streamlit Dashboard** with Plotly visuals
 
----
-
 ## 📊 Key Results
 
 - **82% AUC** on synthetic credit dataset  
 - **30% reduction** in expected default risk  
 - **15% increase** in approval rates  
 - **< 500ms** real-time scoring latency  
-
----
 
 ## 🛠 Tech Stack
 
@@ -50,8 +44,6 @@ An end-to-end **AI credit risk assessment & portfolio optimization platform**, b
 - **Plotly** visualizations
 - **Streamlit** dashboard
 
----
-
 ## 📁 Project Structure
 
 LendIQ/
@@ -60,9 +52,6 @@ LendIQ/
 │── dashboard/ # Streamlit application
 │── figures/ # Charts & visuals
 └── requirements.txt # Dependencies
-
-
----
 
 ## ⚙️ Installation & Setup
 
