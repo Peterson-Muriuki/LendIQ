@@ -1,4 +1,10 @@
 # LendIQ — AI-Powered Credit Risk & Portfolio Optimization Platform
+![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)
+![Streamlit](https://img.shields.io/badge/Streamlit-App-red.svg)
+![XGBoost](https://img.shields.io/badge/XGBoost-ML-orange.svg)
+![CVXPY](https://img.shields.io/badge/CVXPY-Optimization-purple.svg)
+![Plotly](https://img.shields.io/badge/Plotly-Visualizations-lightgrey.svg)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-yellow.svg)
 
 Live Demo  
 LendIQ Streamlit App:  
